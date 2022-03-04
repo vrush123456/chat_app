@@ -1,0 +1,22 @@
+
+[\\] create NPM project
+
+[\\]create Index,css,js file
+
+[\\]install dependances,express,nodemon(dev,dep)
+
+[\\]create a express server(server.js)
+
+[\\] do fronend part
+
+[\\]install socket.io,setup socket.io in server.js
+
+[\\]client send message logic in client.js
+
+[\\]recive message on server and broadcst to all clinests
+
+[\\]
+
+[\\]
+
+[\\]
